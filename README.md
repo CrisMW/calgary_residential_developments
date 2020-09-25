@@ -3,7 +3,7 @@
 
 This project looks at residential develop permits in the City of Calgary. The goal of this project is to compare whether neighborhoods close the city's light rail transit (LRT) are in higher demand.
 
-To answer this question, residential permits were grouped by neighborhood. Then, the yearly growth rates were calculated and plotted as **bar graphs (Fig. 1 and Fig. 2)**. This showed no difference between LRT and non-LRT communities. Interestingly, we observed a sharp rise in secondary suites starting in 2018.
+To answer this question, residential permits were grouped by neighborhood. Then, the yearly growth rates were calculated and plotted as **bar graphs ([Fig. 1](fig_1_growth_rates.png) and [Fig. 2](fig_2_by_type.png)**. This showed no difference between LRT and non-LRT communities. Interestingly, we observed a sharp rise in secondary suites starting in 2018.
 
 Next, a **choropleth map ([Fig. 4](fig_4_static_choropleth.png), static version)**, which shows the number of permits for each neighboorhod, was generated. This confirmed that communities with direct LRT access do not see more residential development, but it also showed that the communities around the LRT do. This would suggest that proximity to rapid transit does actually positively affect residential developments.
 
