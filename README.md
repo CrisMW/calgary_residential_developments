@@ -7,4 +7,4 @@ To answer this question, residential permits were grouped by neighborhood. Then,
 
 Next, a **choropleth map ([Fig. 4](fig_4_static_choropleth.png), static version)**, which shows the number of permits for each neighboorhod, was generated. This confirmed that communities with direct LRT access do not see more residential development, but it also showed that the communities around the LRT do. This would suggest that proximity to rapid transit does actually positively affect residential developments.
 
-**Note:** Since GitHub does not render folium maps, the notebook includes static version. To view the notebook with interactive maps, please follow [this link to nbviewer](https://nbviewer.jupyter.org/github/CrisMW/calgary_residential_developments/blob/master/Residential%20Developments%20and%20the%20CTrain.ipynb).
+**Note:** Since GitHub does not render interactive folium maps, the notebook includes static .png files instead. To view the notebook with interactive maps, please follow [this link to nbviewer](https://nbviewer.jupyter.org/github/CrisMW/calgary_residential_developments/blob/master/Residential%20Developments%20and%20the%20CTrain.ipynb).
