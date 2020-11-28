@@ -1,7 +1,7 @@
 # Are neighbourhoods with public transit in demand?
 ## An analysis of residential development permits in Calgary
 
-This project looks at residential develop permits in the City of Calgary. The goal is to determine whether neighbourhoods close the city's light rail transit (LRT) are in higher demand. My analysis showed that, indeed, there is more residential development in areas closer to transit. Unrelated to the original question, my analysis also showed a sharp increase in the number of secondary suites since 2018. Contractors and realtors may, thus, benefit from targeting homeowmers who are looking to develop secondary suites in their houses.
+This project looks at residential develop permits in the City of Calgary. The goal is to determine whether neighbourhoods close the city's light rail transit (LRT) are in higher demand. My analysis showed that, indeed, there is more residential development in areas closer to transit. Unrelated to the original question, my analysis also showed a sharp increase in the number of secondary suites since 2018. Contractors and realtors may, thus, benefit from targeting homeowners who are looking to develop secondary suites in their houses.
 
 For this analysis, residential permits were extracted and grouped by neighbourhood. Then, the yearly growth rates were calculated and plotted as **bar graphs ([Fig. 1](fig_1_growth_rates.png) and [Fig. 2](fig_2_by_type.png)**. This showed no difference between LRT and non-LRT communities. As mentioned above, a sharp rise in secondary suites became evident.
 
