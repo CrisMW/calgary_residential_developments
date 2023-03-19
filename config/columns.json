@@ -1,0 +1,11 @@
+{
+    "columns": [
+        "Address",
+        "ProposedUseDescription",
+        "DecisionDate",
+        "Decision",
+        "CommunityName",
+        "Latitude",
+        "Longitude"
+    ]
+}
