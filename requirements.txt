@@ -1,3 +1,4 @@
+autopep8==2.0.2
 folium==0.14.0
 geopy==2.3.0
 ipykernel==6.21.3
